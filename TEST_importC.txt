@@ -1,0 +1,361 @@
+Could not schedule the event: 7:40 AM,8:40 AM,Event 24
+Could not schedule the event: 8:00 AM,9:00 AM,Event 25
+Could not schedule the event: 8:20 AM,9:20 AM,Event 26
+Could not schedule the event: 8:40 AM,9:40 AM,Event 27
+Could not schedule the event: 9:00 AM,10:00 AM,Event 28
+Could not schedule the event: 9:20 AM,10:20 AM,Event 29
+Could not schedule the event: 9:40 AM,10:40 AM,Event 30
+Could not schedule the event: 10:00 AM,11:00 AM,Event 31
+Could not schedule the event: 10:20 AM,11:20 AM,Event 32
+Could not schedule the event: 10:40 AM,11:40 AM,Event 33
+Could not schedule the event: 11:00 AM,12:00 PM,Event 34
+Could not schedule the event: 11:20 AM,12:20 PM,Event 35
+Could not schedule the event: 11:40 AM,12:40 PM,Event 36
+Could not schedule the event: 12:00 PM,1:00 PM,Event 37
+Could not schedule the event: 12:20 PM,1:20 PM,Event 38
+Could not schedule the event: 12:40 PM,1:40 PM,Event 39
+Could not schedule the event: 1:00 PM,2:00 PM,Event 40
+Could not schedule the event: 1:20 PM,2:20 PM,Event 41
+Could not schedule the event: 1:40 PM,2:40 PM,Event 42
+Could not schedule the event: 2:00 PM,3:00 PM,Event 43
+Could not schedule the event: 2:20 PM,3:20 PM,Event 44
+Could not schedule the event: 2:40 PM,3:40 PM,Event 45
+Could not schedule the event: 3:00 PM,4:00 PM,Event 46
+Could not schedule the event: 3:20 PM,4:20 PM,Event 47
+Could not schedule the event: 3:40 PM,4:40 PM,Event 48
+Could not schedule the event: 4:00 PM,5:00 PM,Event 49
+Could not schedule the event: 4:20 PM,5:20 PM,Event 50
+Could not schedule the event: 7:40 AM,8:40 AM,Event 74
+Could not schedule the event: 8:00 AM,9:00 AM,Event 75
+Could not schedule the event: 8:20 AM,9:20 AM,Event 76
+Could not schedule the event: 8:40 AM,9:40 AM,Event 77
+Could not schedule the event: 9:00 AM,10:00 AM,Event 78
+Could not schedule the event: 9:20 AM,10:20 AM,Event 79
+Could not schedule the event: 9:40 AM,10:40 AM,Event 80
+Could not schedule the event: 10:00 AM,11:00 AM,Event 81
+Could not schedule the event: 10:20 AM,11:20 AM,Event 82
+Could not schedule the event: 10:40 AM,11:40 AM,Event 83
+Could not schedule the event: 11:00 AM,12:00 PM,Event 84
+Could not schedule the event: 11:20 AM,12:20 PM,Event 85
+Could not schedule the event: 11:40 AM,12:40 PM,Event 86
+Could not schedule the event: 12:00 PM,1:00 PM,Event 87
+Could not schedule the event: 12:20 PM,1:20 PM,Event 88
+Could not schedule the event: 12:40 PM,1:40 PM,Event 89
+Could not schedule the event: 1:00 PM,2:00 PM,Event 90
+Could not schedule the event: 1:20 PM,2:20 PM,Event 91
+Could not schedule the event: 1:40 PM,2:40 PM,Event 92
+Could not schedule the event: 2:00 PM,3:00 PM,Event 93
+Could not schedule the event: 2:20 PM,3:20 PM,Event 94
+Could not schedule the event: 2:40 PM,3:40 PM,Event 95
+Could not schedule the event: 3:00 PM,4:00 PM,Event 96
+Could not schedule the event: 3:20 PM,4:20 PM,Event 97
+Could not schedule the event: 3:40 PM,4:40 PM,Event 98
+Could not schedule the event: 4:00 PM,5:00 PM,Event 99
+Could not schedule the event: 4:20 PM,5:20 PM,Event 100
+Could not schedule the event: 7:40 AM,8:40 AM,Event 124
+Could not schedule the event: 8:00 AM,9:00 AM,Event 125
+Could not schedule the event: 8:20 AM,9:20 AM,Event 126
+Could not schedule the event: 8:40 AM,9:40 AM,Event 127
+Could not schedule the event: 9:00 AM,10:00 AM,Event 128
+Could not schedule the event: 9:20 AM,10:20 AM,Event 129
+Could not schedule the event: 9:40 AM,10:40 AM,Event 130
+Could not schedule the event: 10:00 AM,11:00 AM,Event 131
+Could not schedule the event: 10:20 AM,11:20 AM,Event 132
+Could not schedule the event: 10:40 AM,11:40 AM,Event 133
+Could not schedule the event: 11:00 AM,12:00 PM,Event 134
+Could not schedule the event: 11:20 AM,12:20 PM,Event 135
+Could not schedule the event: 11:40 AM,12:40 PM,Event 136
+Could not schedule the event: 12:00 PM,1:00 PM,Event 137
+Could not schedule the event: 12:20 PM,1:20 PM,Event 138
+Could not schedule the event: 12:40 PM,1:40 PM,Event 139
+Could not schedule the event: 1:00 PM,2:00 PM,Event 140
+Could not schedule the event: 1:20 PM,2:20 PM,Event 141
+Could not schedule the event: 1:40 PM,2:40 PM,Event 142
+Could not schedule the event: 2:00 PM,3:00 PM,Event 143
+Could not schedule the event: 2:20 PM,3:20 PM,Event 144
+Could not schedule the event: 2:40 PM,3:40 PM,Event 145
+Could not schedule the event: 3:00 PM,4:00 PM,Event 146
+Could not schedule the event: 3:20 PM,4:20 PM,Event 147
+Could not schedule the event: 3:40 PM,4:40 PM,Event 148
+Could not schedule the event: 4:00 PM,5:00 PM,Event 149
+Could not schedule the event: 4:20 PM,5:20 PM,Event 150
+Date: 4/25/2014
+Start Time: 12:00 AM
+End Time: 1:00 AM
+Description: Event 1
+
+Start Time: 1:00 AM
+End Time: 2:00 AM
+Description: Event 2
+
+Start Time: 2:00 AM
+End Time: 3:00 AM
+Description: Event 3
+
+Start Time: 3:00 AM
+End Time: 4:00 AM
+Description: Event 4
+
+Start Time: 4:00 AM
+End Time: 5:00 AM
+Description: Event 5
+
+Start Time: 5:00 AM
+End Time: 6:00 AM
+Description: Event 6
+
+Start Time: 6:00 AM
+End Time: 7:00 AM
+Description: Event 7
+
+Start Time: 7:00 AM
+End Time: 8:00 AM
+Description: Event 8
+
+Start Time: 8:00 AM
+End Time: 9:00 AM
+Description: Event 9
+
+Start Time: 9:00 AM
+End Time: 10:00 AM
+Description: Event 10
+
+Start Time: 10:00 AM
+End Time: 11:00 AM
+Description: Event 11
+
+Start Time: 11:00 AM
+End Time: 12:00 PM
+Description: Event 12
+
+Start Time: 12:00 PM
+End Time: 1:00 PM
+Description: Event 13
+
+Start Time: 1:00 PM
+End Time: 2:00 PM
+Description: Event 14
+
+Start Time: 2:00 PM
+End Time: 3:00 PM
+Description: Event 15
+
+Start Time: 3:00 PM
+End Time: 4:00 PM
+Description: Event 16
+
+Start Time: 4:00 PM
+End Time: 5:00 PM
+Description: Event 17
+
+Start Time: 5:00 PM
+End Time: 6:00 PM
+Description: Event 18
+
+Start Time: 6:00 PM
+End Time: 7:00 PM
+Description: Event 19
+
+Start Time: 7:00 PM
+End Time: 8:00 PM
+Description: Event 20
+
+Start Time: 8:00 PM
+End Time: 9:00 PM
+Description: Event 21
+
+Start Time: 9:00 PM
+End Time: 10:00 PM
+Description: Event 22
+
+Start Time: 10:00 PM
+End Time: 11:00 PM
+Description: Event 23
+
+Date: 4/26/2014
+Start Time: 12:00 AM
+End Time: 1:00 AM
+Description: Event 51
+
+Start Time: 1:00 AM
+End Time: 2:00 AM
+Description: Event 52
+
+Start Time: 2:00 AM
+End Time: 3:00 AM
+Description: Event 53
+
+Start Time: 3:00 AM
+End Time: 4:00 AM
+Description: Event 54
+
+Start Time: 4:00 AM
+End Time: 5:00 AM
+Description: Event 55
+
+Start Time: 5:00 AM
+End Time: 6:00 AM
+Description: Event 56
+
+Start Time: 6:00 AM
+End Time: 7:00 AM
+Description: Event 57
+
+Start Time: 7:00 AM
+End Time: 8:00 AM
+Description: Event 58
+
+Start Time: 8:00 AM
+End Time: 9:00 AM
+Description: Event 59
+
+Start Time: 9:00 AM
+End Time: 10:00 AM
+Description: Event 60
+
+Start Time: 10:00 AM
+End Time: 11:00 AM
+Description: Event 61
+
+Start Time: 11:00 AM
+End Time: 12:00 PM
+Description: Event 62
+
+Start Time: 12:00 PM
+End Time: 1:00 PM
+Description: Event 63
+
+Start Time: 1:00 PM
+End Time: 2:00 PM
+Description: Event 64
+
+Start Time: 2:00 PM
+End Time: 3:00 PM
+Description: Event 65
+
+Start Time: 3:00 PM
+End Time: 4:00 PM
+Description: Event 66
+
+Start Time: 4:00 PM
+End Time: 5:00 PM
+Description: Event 67
+
+Start Time: 5:00 PM
+End Time: 6:00 PM
+Description: Event 68
+
+Start Time: 6:00 PM
+End Time: 7:00 PM
+Description: Event 69
+
+Start Time: 7:00 PM
+End Time: 8:00 PM
+Description: Event 70
+
+Start Time: 8:00 PM
+End Time: 9:00 PM
+Description: Event 71
+
+Start Time: 9:00 PM
+End Time: 10:00 PM
+Description: Event 72
+
+Start Time: 10:00 PM
+End Time: 11:00 PM
+Description: Event 73
+
+Date: 4/27/2014
+Start Time: 12:00 AM
+End Time: 1:00 AM
+Description: Event 101
+
+Start Time: 1:00 AM
+End Time: 2:00 AM
+Description: Event 102
+
+Start Time: 2:00 AM
+End Time: 3:00 AM
+Description: Event 103
+
+Start Time: 3:00 AM
+End Time: 4:00 AM
+Description: Event 104
+
+Start Time: 4:00 AM
+End Time: 5:00 AM
+Description: Event 105
+
+Start Time: 5:00 AM
+End Time: 6:00 AM
+Description: Event 106
+
+Start Time: 6:00 AM
+End Time: 7:00 AM
+Description: Event 107
+
+Start Time: 7:00 AM
+End Time: 8:00 AM
+Description: Event 108
+
+Start Time: 8:00 AM
+End Time: 9:00 AM
+Description: Event 109
+
+Start Time: 9:00 AM
+End Time: 10:00 AM
+Description: Event 110
+
+Start Time: 10:00 AM
+End Time: 11:00 AM
+Description: Event 111
+
+Start Time: 11:00 AM
+End Time: 12:00 PM
+Description: Event 112
+
+Start Time: 12:00 PM
+End Time: 1:00 PM
+Description: Event 113
+
+Start Time: 1:00 PM
+End Time: 2:00 PM
+Description: Event 114
+
+Start Time: 2:00 PM
+End Time: 3:00 PM
+Description: Event 115
+
+Start Time: 3:00 PM
+End Time: 4:00 PM
+Description: Event 116
+
+Start Time: 4:00 PM
+End Time: 5:00 PM
+Description: Event 117
+
+Start Time: 5:00 PM
+End Time: 6:00 PM
+Description: Event 118
+
+Start Time: 6:00 PM
+End Time: 7:00 PM
+Description: Event 119
+
+Start Time: 7:00 PM
+End Time: 8:00 PM
+Description: Event 120
+
+Start Time: 8:00 PM
+End Time: 9:00 PM
+Description: Event 121
+
+Start Time: 9:00 PM
+End Time: 10:00 PM
+Description: Event 122
+
+Start Time: 10:00 PM
+End Time: 11:00 PM
+Description: Event 123
+
+
